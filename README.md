@@ -8,6 +8,7 @@ Este requiere R, RStudio y el paquete rmarkdown.
 * R: [Descarga de R](https://cran.r-project.org/bin/)
 * RStudio: [Descarga de RStudio](https://www.rstudio.com/products/rstudio/download/)
 * Rmarkdown puede ser instalada usando la interfaz de instalación de paquetes en RStudio
+* Base de datos [Descarga en MEDATA](http://medata.gov.co/dataset/hurto-de-moto)
 
 # Tabla de contenido
 
