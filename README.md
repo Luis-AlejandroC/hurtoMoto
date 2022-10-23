@@ -1,4 +1,4 @@
-# Casos de Hurto a personas y motocicletas en la comuna 7 Robledo de la ciudad de Medellín - Colombia
+# Casos de hurto a personas y motocicletas en la comuna 7 Robledo de la ciudad de Medellín - Colombia
 
 Versión v1.0.0. 
 
