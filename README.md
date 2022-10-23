@@ -12,10 +12,13 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 # Tabla de contenido
 
-1. [Victima hurto moto por año en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1-victima-hurto-moto-por-año-en-la-comuna-7-robledo)
+1. [Introducción](https://github.com/Luis-AlejandroC/hurtoMoto#1.-introducción)
 
+1.1 [Victima hurto moto por año en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.1-victima-hurto-moto-por-año-en-la-comuna-7-robledo)
 
-# 1. Victima hurto moto por año en la Comuna 7 Robledo
+# 1. Introducción
+
+# 1.1 Victima hurto moto por año en la Comuna 7 Robledo
 Desde el año 2020 en Medellín se presentó una cifra alta de hurto a motocicleta
 a pesar del confinamiento nacional del COVID-19 con 461 casos para la comuna 7 
 Robledo. En 2021 hubo un leve aumento del 9.11% con respecto a 2020. Hasta la
