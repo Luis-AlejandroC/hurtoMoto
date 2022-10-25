@@ -35,4 +35,10 @@ con 2021 y 2020 respectivamente.
 ## Inmediaciones de la ciudadela Pedro Nel Gómez
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMesCiudadela.gif)
 
+# 1.4 Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/heatmap.gif)
+
+# 1.5 Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo
+## Inmediaciones de la ciudadela Pedro Nel Gómez
+
+![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/RobledoMap.gif)
