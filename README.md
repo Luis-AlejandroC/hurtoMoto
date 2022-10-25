@@ -27,3 +27,12 @@ de la actividad delictiva hurto a motocicleta en un 40.16% y 34.71% comparado
 con 2021 y 2020 respectivamente.
 
 ![Hurto moto por año](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoA%C3%B1o1.png)
+
+# 1.2 Victima hurto moto por mes en la Comuna 7 Robledo
+![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMes.gif)
+
+# 1.3 Victima hurto moto por mes en la Comuna 7 Robledo
+## Inmediaciones de la ciudadela Pedro Nel Gómez
+![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMesCiudadela.gif)
+
+![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/heatmap.gif)
