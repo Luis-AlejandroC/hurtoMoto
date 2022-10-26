@@ -13,7 +13,7 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 ### Tabla de contenido
 
-1. [Introducción](https://github.com/Luis-AlejandroC/hurtoMoto#1-introduccion)
+1. [Introducción](https://github.com/Luis-AlejandroC/hurtoMoto#1-introducción)
 
 1.1. [Victima hurto moto por año en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#11-victima-hurto-moto-por-año-en-la-comuna-7-robledo)
 
