@@ -21,9 +21,9 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 1.3. [Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#13-victima-hurto-moto-por-mes-en-las-inmediaciones-de-la-ciudadela-pedro-nel-g%C3%B3mez-de-la-comuna-7-robledo)
 
-1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#14-victima-hurto-moto-por-dia-del-2020-al-2022-en-la-comuna-7-robledo)
+1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#14-victima-hurto-moto-por-d%C3%ADa-del-2020-al-2022-en-la-comuna-7-robledo)
 
-1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicacion-geografica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
+1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicaci%C3%B3n-geogr%C3%A1fica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
 
 # 1. Introducción
 
