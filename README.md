@@ -25,9 +25,27 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicaci%C3%B3n-geogr%C3%A1fica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
 
-# 1. Introducción
+## 1. Introducción
 
-# 1.1. Victima hurto moto por año en la Comuna 7 Robledo
+Los datos abiertos son información pública dispuesta en formatos que permiten su uso y
+reutilización bajo licencia abierta y sin restricciones legales para su aprovechamiento. En
+Colombia, la Ley 1712 de 2014 de la Ley de Transparencia y del Derecho de Acceso a la
+Información Pública Nacional, establece la obligatoriedad de las entidades públicas de
+aperturar datos y define los datos abiertos en el numeral sexto como "todos aquellos
+datos primarios o sin procesar, que se encuentran en formatos estándar e interoperables
+que facilitan su acceso y reutilización, los cuales están bajo la custodia de las entidades
+públicas o privadas que cumplen con funciones públicas y que son puestos a disposición
+de cualquier ciudadano, de forma libre y sin restricciones, con el fin de que terceros
+puedan reutilizarlos y crear servicios derivados de los mismos".
+
+En este trabajo se realiza el análisis de datos abiertos asociados al hurto a personas y de
+motocicletas en la comuna de Robledo entre los años 2020 y 2022. Dichos datos son
+descargados del portal MEData de la ciudad de Medellín. El enfoque está dirigido hacia
+esta comuna ya que allí se encuentras localizadas diferentes instituciones de educación
+superior que incluyen, entre otras, al Pascual Bravo, el ITM y el Colegio Mayor (Ciudadela
+Universitaria Pedro Nel Gómez).
+
+## 1.1. Victima hurto moto por año en la Comuna 7 Robledo
 
 Desde el año 2020 en Medellín se presentó una cifra alta de hurto a motocicleta
 a pesar del confinamiento nacional del COVID-19 con 461 casos para la comuna 7 
@@ -38,17 +56,17 @@ con 2021 y 2020 respectivamente.
 
 ![Hurto moto por año](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoA%C3%B1o1.png)
 
-# 1.2. Victima hurto moto por mes en la Comuna 7 Robledo
+## 1.2. Victima hurto moto por mes en la Comuna 7 Robledo
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMes.gif)
 
-# 1.3. Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo
+## 1.3. Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMesCiudadela.gif)
 
-# 1.4. Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo
+## 1.4. Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/heatmap.gif)
 
-# 1.5. Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo
-## Inmediaciones de la ciudadela Pedro Nel Gómez
+## 1.5. Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo
+### Inmediaciones de la ciudadela Pedro Nel Gómez
 
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/RobledoMap.gif)
 
