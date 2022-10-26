@@ -42,8 +42,8 @@ En este trabajo se realiza el análisis de datos abiertos asociados al hurto a p
 motocicletas en la comuna de Robledo entre los años 2020 y 2022. Dichos datos son
 descargados del portal MEData de la ciudad de Medellín. El enfoque está dirigido hacia
 esta comuna ya que allí se encuentras localizadas diferentes instituciones de educación
-superior que incluyen, entre otras, al Pascual Bravo, el ITM y el Colegio Mayor (Ciudadela
-Universitaria Pedro Nel Gómez).
+superior que incluyen, entre otras, a la I.U. Pascual Bravo, el ITM y la I.U. Colegio Mayor de
+Antioquia (Ciudadela Universitaria Pedro Nel Gómez).
 
 ## 1.1. Victima hurto moto por año en la Comuna 7 Robledo
 
