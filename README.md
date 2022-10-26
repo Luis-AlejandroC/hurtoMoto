@@ -23,7 +23,7 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.4-victima-hurto-moto-por-dia-del-2020-al-2022-en-la-comuna-7-robledo)
 
-**1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#ubicacion-geografica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)**<br>
+**[Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#ubicacion-geografica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)**<br>
 
 
 # 1. Introducción
