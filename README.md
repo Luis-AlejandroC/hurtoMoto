@@ -15,15 +15,15 @@ Este requiere R, RStudio y el paquete rmarkdown.
 
 1. [Introducción](https://github.com/Luis-AlejandroC/hurtoMoto#1-introduccion)
 
-1.1. [Victima hurto moto por año en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.1-victima-hurto-moto-por-año-en-la-comuna-7-robledo)
+1.1. [Victima hurto moto por año en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#11-victima-hurto-moto-por-año-en-la-comuna-7-robledo)
 
-1.2. [Victima hurto moto por mes en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.2-victima-hurto-moto-por-mes-en-la-comuna-7-robledo)
+1.2. [Victima hurto moto por mes en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#12-victima-hurto-moto-por-mes-en-la-comuna-7-robledo)
 
-1.3. [Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.3-victima-hurto-moto-por-mes-en-las-inmediaciones-de-la-cuidadela-pedro-nel-gómez-de-la-comuna-7-robledo)
+1.3. [Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#13-victima-hurto-moto-por-mes-en-las-inmediaciones-de-la-cuidadela-pedro-nel-gómez-de-la-comuna-7-robledo)
 
-1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#1.4-victima-hurto-moto-por-dia-del-2020-al-2022-en-la-comuna-7-robledo)
+1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#14-victima-hurto-moto-por-dia-del-2020-al-2022-en-la-comuna-7-robledo)
 
-**[Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#ubicacion-geografica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)**<br>
+1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicacion-geografica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
 
 # 1. Introducción
 
