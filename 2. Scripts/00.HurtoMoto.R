@@ -1,7 +1,7 @@
 #Database Hurto de moto Medellín
 #Source: MEDATA http://medata.gov.co/dataset/hurto-de-moto
 
-#Change language to Spanish
+
 Sys.getlocale()
 Sys.setlocale("LC_ALL", "Spanish.UTF-8")
 #install.packages(c("dplyr","reshape", "mapview"))
