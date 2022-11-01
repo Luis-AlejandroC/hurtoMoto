@@ -2,7 +2,7 @@
 
 <p align="center">
   <span>Español</span> |
-  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">English</a> |
+  <a href="https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english">English</a> 
 </p>
 
 Versión v1.0.0. 
