@@ -1,5 +1,10 @@
 # Análisis de datos abiertos de los casos de hurto a personas y motocicletas en la comuna 7 Robledo de la ciudad de Medellín - Colombia entre los años 2020 y 2022
 
+<p align="center">
+  <span>Español</span> |
+  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">English</a> |
+</p>
+
 Versión v1.0.0. 
 
 El directorio de `Scripts/` contiene el archivo `.Rmd` que genera los gráficos mostrados en este archivo. 
