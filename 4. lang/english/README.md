@@ -22,13 +22,13 @@ It requires R, RStudio, and the rmarkdown package.
 
 1.1. [Theft motorbike people by year at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#11-theft-motorbike-people-by-year-at-robledo-comuna-7)
 
-1.2. [Theft motorbike people by month at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#12-theft-motorbike-people-by-month-at-robledo-comuna-7)
+1.2. [Theft motorbike people by month at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#12-theft-motorbike-people-by-month-at-robledo-comuna-7)
 
-1.3. [Theft motorbike people by month at Robledo comuna 7 near to ciudadela Pedro Nel Gómez](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#13-theft-motorbike-people-by-month-at-robledo-comuna-7-near-to-ciudadela-pedro-nel-g%C3%B3mez)
+1.3. [Theft motorbike people by month at Robledo comuna 7 near to ciudadela Pedro Nel Gómez](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#13-theft-motorbike-people-by-month-at-robledo-comuna-7-near-to-ciudadela-pedro-nel-g%C3%B3mez)
 
-1.4. [Theft motorbike people by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#14-theft-motorbike-people-by-day-from-2020-to-2022-at-robledo-comuna-7)
+1.4. [Theft motorbike people by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#14-theft-motorbike-people-by-day-from-2020-to-2022-at-robledo-comuna-7)
 
-1.5. [Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#15-theft-motorbike-people-geographic-location-by-day-from-2020-to-2022-at-robledo-comuna-7)
+1.5. [Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#15-theft-motorbike-people-geographic-location-by-day-from-2020-to-2022-at-robledo-comuna-7)
 
 ## 1. Introduction
 
