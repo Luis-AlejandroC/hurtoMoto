@@ -30,7 +30,7 @@ It requires R, RStudio, and the rmarkdown package.
 
 1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicaci%C3%B3n-geogr%C3%A1fica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
 
-## 1. Introducción
+## 1. Introduction
 
 Los datos abiertos son información pública dispuesta en formatos que permiten su uso y
 reutilización bajo licencia abierta y sin restricciones legales para su aprovechamiento. En
