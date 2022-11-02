@@ -22,13 +22,13 @@ It requires R, RStudio, and the rmarkdown package.
 
 1.1. [Theft motorbike people by year at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#11-theft-motorbike-people-by-year-at-robledo-comuna-7)
 
-1.2. [Victima hurto moto por mes en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#12-victima-hurto-moto-por-mes-en-la-comuna-7-robledo)
+1.2. [Theft motorbike people by month at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#12-theft-motorbike-people-by-month-at-robledo-comuna-7)
 
-1.3. [Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#13-victima-hurto-moto-por-mes-en-las-inmediaciones-de-la-ciudadela-pedro-nel-g%C3%B3mez-de-la-comuna-7-robledo)
+1.3. [Theft motorbike people by month at Robledo comuna 7 near to ciudadela Pedro Nel Gómez](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#13-theft-motorbike-people-by-month-at-robledo-comuna-7-near-to-ciudadela-pedro-nel-g%C3%B3mez)
 
-1.4. [Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#14-victima-hurto-moto-por-d%C3%ADa-del-2020-al-2022-en-la-comuna-7-robledo)
+1.4. [Theft motorbike people by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#14-theft-motorbike-people-by-day-from-2020-to-2022-at-robledo-comuna-7)
 
-1.5. [Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#15-ubicaci%C3%B3n-geogr%C3%A1fica-hurto-moto-del-2020-al-2022-en-la-comuna-7-robledo)
+1.5. [Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/edit/main/4.%20lang/english/README.md#15-theft-motorbike-people-geographic-location-by-day-from-2020-to-2022-at-robledo-comuna-7)
 
 ## 1. Introduction
 
@@ -61,16 +61,16 @@ con 2021 y 2020 respectivamente.
 
 ![Hurto moto por año](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoA%C3%B1o1.png)
 
-## 1.2. Victima hurto moto por mes en la Comuna 7 Robledo
+## 1.2. Theft motorbike people by month at Robledo comuna 7
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMes.gif)
 
-## 1.3. Victima hurto moto por mes en las inmediaciones de la ciudadela Pedro Nel Gómez de la Comuna 7 Robledo
+## 1.3. Theft motorbike people by month at Robledo comuna 7 near to ciudadela Pedro Nel Gómez
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/HurtoMotoMesCiudadela.gif)
 
-## 1.4. Victima hurto moto por día del 2020 al 2022 en la Comuna 7 Robledo
+## 1.4. Theft motorbike people by day from 2020 to 2022 at Robledo comuna 7
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/heatmap.gif)
 
-## 1.5. Ubicación geográfica hurto moto del 2020 al 2022 en la Comuna 7 Robledo
-### Inmediaciones de la ciudadela Pedro Nel Gómez
+## 1.5. Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7
+### Near to ciudadela Pedro Nel Gómez
 
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/RobledoMap.gif)
