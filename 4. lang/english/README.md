@@ -32,16 +32,16 @@ It requires R, RStudio, and the rmarkdown package.
 
 ## 1. Introduction
 
-Los datos abiertos son información pública dispuesta en formatos que permiten su uso y
-reutilización bajo licencia abierta y sin restricciones legales para su aprovechamiento. En
-Colombia, la Ley 1712 de 2014 de la Ley de Transparencia y del Derecho de Acceso a la
-Información Pública Nacional, establece la obligatoriedad de las entidades públicas de
-aperturar datos y define los datos abiertos en el numeral sexto como "todos aquellos
-datos primarios o sin procesar, que se encuentran en formatos estándar e interoperables
-que facilitan su acceso y reutilización, los cuales están bajo la custodia de las entidades
-públicas o privadas que cumplen con funciones públicas y que son puestos a disposición
-de cualquier ciudadano, de forma libre y sin restricciones, con el fin de que terceros
-puedan reutilizarlos y crear servicios derivados de los mismos".
+The open data are public information avaliable in formats that allowing their use and
+handle under open source and no legal restrictions for use it. At Colombia, the transparency law's
+1714 law from 2014 and free access to National public information, established the 
+mandatory of public intitution to access data and define the open data in the sixth item
+as "All raw data or unprocessed data, that undefined format and integraded to allow their 
+access and reusing, this data are under control of public or non-public intitutions that
+fulfill public functions and that are made available to any citizen, freely and 
+without restrictions, in order to freely and without restrictions, so that third parties 
+can reuse them and create services derived from them. can reuse them and create services 
+derived from them".
 
 En este trabajo se realiza el análisis de datos abiertos asociados al hurto a personas y de
 motocicletas en la comuna de Robledo entre los años 2020 y 2022. Dichos datos son
