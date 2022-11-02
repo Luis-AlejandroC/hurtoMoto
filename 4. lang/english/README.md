@@ -18,9 +18,9 @@ It requires R, RStudio, and the rmarkdown package.
 
 ### Contents
 
-1. [Introduction](https://github.com/Luis-AlejandroC/hurtoMoto#1-introducción)
+1. [Introduction](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#1-introduction)
 
-1.1. [Theft motorbike people by year at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/4.lang/english#11-theft-motorbike-people-by-year-at-robledo-comuna-7)
+1.1. [Theft motorbike people by year at Robledo comuna 7](https://github.com/Luis-AlejandroC/hurtoMoto/tree/main/4.%20lang/english#11-theft-motorbike-people-by-year-at-robledo-comuna-7)
 
 1.2. [Victima hurto moto por mes en la Comuna 7 Robledo](https://github.com/Luis-AlejandroC/hurtoMoto#12-victima-hurto-moto-por-mes-en-la-comuna-7-robledo)
 
