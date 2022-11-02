@@ -50,7 +50,7 @@ esta comuna ya que allí se encuentras localizadas diferentes instituciones de e
 superior que incluyen, entre otras, a la I.U. Pascual Bravo, el ITM y la I.U. Colegio Mayor de
 Antioquia (Ciudadela Universitaria Pedro Nel Gómez).
 
-## 1.1. Victima hurto moto por año en la Comuna 7 Robledo
+## 1.1. Theft motorbike people by year at Robledo comuna 7
 
 Desde el año 2020 en Medellín se presentó una cifra alta de hurto a motocicleta
 a pesar del confinamiento nacional del COVID-19 con 461 casos para la comuna 7 
