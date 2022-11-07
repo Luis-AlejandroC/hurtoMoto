@@ -70,7 +70,6 @@ con 2021 y 2020 respectivamente.
 ## 1.4. Theft motorbike people by day from 2020 to 2022 at Robledo comuna 7
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/heatmap.gif)
 
-## 1.5. Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7
-### Near to ciudadela Pedro Nel Gómez
+## 1.5. Theft motorbike people geographic location by day from 2020 to 2022 at Robledo comuna 7 near to ciudadela Pedro Nel Gómez
 
 ![gif](https://github.com/Luis-AlejandroC/hurtoMoto/blob/main/1.%20Data/RobledoMap.gif)
